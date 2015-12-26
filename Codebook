@@ -1,1 +1,89 @@
+##Codebook Describing Variables for Getting and Cleaning Data Assignment 
+Steps performed to clean up the data as per instructions
+1.	Merge the training and the test sets to create one data set 
+2.	Extract only the measurements on the mean and standard deviation for each measurement 
+3.	Uses descriptive activity names to name the activities in the data set 
+4.	Appropriately labels the data set with descriptive variable names 
+5.	From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject 
+
+#List of measured variables:
+ timeBodyAccMeanX
+ timeBodyAccMeanY
+ timeBodyAccMeanZ
+ timeBodyAccSTDX
+ timeBodyAccSTDY
+ timeBodyAccSTDZ
+ timeGravityAccMeanX
+ timeGravityAccMeanY
+ timeGravityAccMeanZ
+ timeGravityAccSTDX
+ timeGravityAccSTDY
+ timeGravityAccSTDZ
+ timeBodyAccJerkMeanX
+ timeBodyAccJerkMeanY
+ timeBodyAccJerkMeanZ
+ timeBodyAccJerkSTDX
+ timeBodyAccJerkSTDY
+ timeBodyAccJerkSTDZ
+ timeBodyGyroMeanX
+ timeBodyGyroMeanY
+ timeBodyGyroMeanZ
+ timeBodyGyroSTDX
+ timeBodyGyroSTDY
+ timeBodyGyroSTDZ
+ timeBodyGyroJerkMeanX
+ timeBodyGyroJerkMeanY
+ timeBodyGyroJerkMeanZ
+ timeBodyGyroJerkSTDX
+ timeBodyGyroJerkSTDY
+ timeBodyGyroJerkSTDZ
+ timeBodyAccMagMean
+ timeBodyAccMagSTD
+ timeGravityAccMagMean
+ timeGravityAccMagSTD
+ timeBodyAccJerkMagMean
+ timeBodyAccJerkMagSTD
+ timeBodyGyroMagMean
+ timeBodyGyroMagSTD
+ timeBodyGyroJerkMagMean
+ timeBodyGyroJerkMagSTD
+ frequencyBodyAccMeanX
+ frequencyBodyAccMeanY
+ frequencyBodyAccMeanZ
+ frequencyBodyAccSTDX
+ frequencyBodyAccSTDY
+ frequencyBodyAccSTDZ
+ frequencyBodyAccMeanFreqX
+ frequencyBodyAccMeanFreqY
+ frequencyBodyAccMeanFreqZ
+ frequencyBodyAccJerkMeanX
+ frequencyBodyAccJerkMeanY
+ frequencyBodyAccJerkMeanZ
+ frequencyBodyAccJerkSTDX
+ frequencyBodyAccJerkSTDY
+ frequencyBodyAccJerkSTDZ
+ frequencyBodyAccJerkMeanFreqX
+ frequencyBodyAccJerkMeanFreqY
+ frequencyBodyAccJerkMeanFreqZ
+ frequencyBodyGyroMeanX
+ frequencyBodyGyroMeanY
+ frequencyBodyGyroMeanZ
+ frequencyBodyGyroSTDX
+ frequencyBodyGyroSTDY
+ frequencyBodyGyroSTDZ
+ frequencyBodyGyroMeanFreqX
+ frequencyBodyGyroMeanFreqY
+ frequencyBodyGyroMeanFreqZ
+ frequencyBodyAccMagMean
+ frequencyBodyAccMagSTD
+ frequencyBodyAccMagMeanFreq
+ frequencyBodyBodyAccJerkMagMean
+ frequencyBodyBodyAccJerkMagSTD
+ frequencyBodyBodyAccJerkMagMeanFreq
+ frequencyBodyBodyGyroMagMean
+ frequencyBodyBodyGyroMagSTD
+ frequencyBodyBodyGyroMagMeanFreq
+ frequencyBodyBodyGyroJerkMagMean
+ frequencyBodyBodyGyroJerkMagSTD
+ frequencyBodyBodyGyroJerkMagMeanFreq
 
